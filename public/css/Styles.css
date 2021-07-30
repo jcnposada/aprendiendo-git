@@ -1,3 +1,12 @@
 h1 {
     text-align: center;
+    color: cornsilk;
+    
 }
+ body {
+     background-color: rgba(134, 101, 95, 0.842);
+     font-family: sans-serif;
+     min-height: 100vh;
+     margin: 0;
+     
+ }
